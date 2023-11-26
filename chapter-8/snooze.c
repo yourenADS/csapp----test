@@ -15,8 +15,7 @@ unsigned int snooze(unsigned int secs){
 
 int main()
 {
-	unsigned int x;
-	scanf("%d",&x);
+	unsigned int x =5;
 	snooze(x);
 	return 0;
 }
