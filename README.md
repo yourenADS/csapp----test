@@ -1,7 +1,7 @@
 # csapp----test
 csapp相关练习与笔记
 
-[第八章笔记](/cha)
+[第八章笔记](/chapter/Readme.md)
 
 ## 第八章
 
