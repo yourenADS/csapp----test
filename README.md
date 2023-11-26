@@ -1,7 +1,7 @@
 # csapp----test
 csapp相关练习与笔记
 
-[toc]
+[第八章笔记](/cha)
 
 ## 第八章
 
