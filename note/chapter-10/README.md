@@ -111,5 +111,4 @@ shell加载ls程序，将标准输出重定向到磁盘文件foo.txt之中。
 `int dup2(int oldfd , int newfd)`
 
 + dup2函数赋复制描述符表表项oldfd到描述符表项newfd进行覆盖。
-+ 如果newfd已经打开，dup2回在复制oldfd之前关闭newfd。
-+ 
++ 如果newfd已经打开，dup2会在复制oldfd之前关闭newfd。
